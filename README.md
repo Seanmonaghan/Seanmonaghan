@@ -19,4 +19,5 @@ ___
 - 🔗 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sean-monaghan-8318666b/)
 ___
 [![Github stats](https://github-readme-stats.vercel.app/api?username=seanmonaghan&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmonaghan&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
