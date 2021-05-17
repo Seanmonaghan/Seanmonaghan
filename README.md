@@ -9,7 +9,7 @@ Always excited to start new endevours so feel free to reach out to collaborate!
 
 ### Recent Collaborations: 
 - 🎶 - [LyriChord](https://seanmonaghan.github.io/LyriChord/) - A web application designed to help artists find chords and lyrics for a song in one simple location.
-- 👾 - [Player Bank](https://lbburnsy.github.io/weather-dashboard) - A web applcation designed to for developers to create game concepts and populate them with characters.
+- 👾 - [Player Bank](https://agile-peak-22805.herokuapp.com/) - A web applcation designed to for developers to create game concepts and populate them with characters.
 ___
 
 ### Fun Facts: 
