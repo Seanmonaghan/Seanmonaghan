@@ -14,7 +14,7 @@ ___
 
 ### Fun Facts: 
 - 🗻 - I enjoy playing oldschool JRPGs and tinkering around with creating them!
-- 🎮 - I love to integrate new development skills into my hobbies, such as the [Character Creator] project I've worked on.
+- 🎮 - I love to integrate new development skills into my hobbies, such as the [Character Creator](https://agile-peak-22805.herokuapp.com/) project I've worked on.
 - 👯 - I'm always interested in collaborating and learning and teaching new skills! You can find all the ways to contact me [here](https://seanmonaghan.github.io/contact.html)
 - 🔗 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sean-monaghan-8318666b/)
 ___
