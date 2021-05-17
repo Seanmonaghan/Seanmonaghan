@@ -8,12 +8,12 @@ HTML5, CSS, Javascript, jQuery, Bootstrap, Bulma, Express.js, React.js, Node.js,
 Always excited to start new endevours so feel free to reach out to collaborate!
 
 ### Recent Collaborations: 
-- ⭐ - [Remote Recruit](https://remote-recruit.herokuapp.com) - A full stack job marketplace focused on finding freelancers jobs.
-- ⭐ - [Weather Dashboard](https://lbburnsy.github.io/weather-dashboard) - A front end weather forecast app. Don't get stuck in the rain again!
+- 🎶 - [LyriChord](https://seanmonaghan.github.io/LyriChord/) - A web application designed to help artists find chords and lyrics for a song in one simple location.
+- 👾 - [Player Bank](https://lbburnsy.github.io/weather-dashboard) - A web applcation designed to for developers to create game concepts and populate them with characters.
 ___
 
 ### Fun Facts: 
-- 👾 - I enjoy playing oldschool JRPGs and tinkering around with creating them!
+- 🗻 - I enjoy playing oldschool JRPGs and tinkering around with creating them!
 - 🎮 - I love to integrate new development skills into my hobbies, such as the [Character Creator] project I've worked on.
 - 👯 - I'm always interested in collaborating and learning and teaching new skills! You can find all the ways to contact me [here](https://seanmonaghan.github.io/contact.html)
 - 🔗 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sean-monaghan-8318666b/)
