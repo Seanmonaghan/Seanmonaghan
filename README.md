@@ -2,10 +2,10 @@
 ## Thanks for checking out my Github!
 I'm Sean, a Full Stack Web Developer with a passion for learning new technologies.
 
-I've recently completed a Full Stack Web Development bootcamp through the University of Connecticut focusing on the following skills: 
+I've recently completed a Full Stack Web Development bootcamp through the University of Connecticut focused on the following skills: 
 HTML5, CSS, Javascript, jQuery, Bootstrap, Bulma, Express.js, React.js, Node.js, MongoDB, MySQL, Mongoose, agile methodology, database theory, and progressive web applications.
 
-Additionally, I've completed a Java (Spring) / React Native Bootcamp that focused on building web applications with a react front end and a Java backend.  
+Additionally, I've completed a Java (Spring) / React Native Bootcamp through the Southern Methodist University that focused on building web applications with a React front end and a Java backend.  
 
 Always excited to start new endevours so feel free to reach out to collaborate!
 
