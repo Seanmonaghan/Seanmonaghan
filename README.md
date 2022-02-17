@@ -18,7 +18,7 @@ ___
 ### Fun Facts: 
 - 🗻 - I enjoy playing 90's era JRPGs and tinkering around with creating them!
 - 🎮 - I love to integrate new skills into my hobbies, such as the [Character Creator](https://agile-peak-22805.herokuapp.com/) project I've developed to help brainstorm characters for table top games that I run.
-- 👯 - I'm always interested in collaborating and learning and teaching new skills! You can find all the ways to contact me [here](https://seanmonaghan.github.io/contact.html)
+- 🤝 - I'm always interested in collaborating and learning and teaching new skills! You can find all the ways to contact me [here](https://seanmonaghan.github.io/contact.html)
 - 🔗 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sean-monaghan-8318666b/)
 ___
 [![Github stats](https://github-readme-stats.vercel.app/api?username=seanmonaghan&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
